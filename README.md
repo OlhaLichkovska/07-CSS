@@ -1,1 +1,1 @@
-Homework aveliable on [this page] (https://olhalichkovska.github.io/04-figma/)
+Homework aveliable on [this page] (https://olhalichkovska.github.io/07-CSS/)
